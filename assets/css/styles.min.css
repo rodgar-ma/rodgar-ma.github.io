@@ -449,7 +449,7 @@ a.reversefootnote:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-image: "assets/files/background.jpg"
+    background-image: "https://rodgar-ma.github.io/assets/files/background.jpg"
 }
 
 #particles-js .particles-js-canvas-el {

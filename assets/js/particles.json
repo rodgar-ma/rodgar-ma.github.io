@@ -7,6 +7,9 @@
         "value_area": 1000
       }
     },
+    "background": {
+      "image": "url('https://rodgar-ma.github.io/assets/files/background.jpg')"
+    },
     "color": {
       "value": "#f1f3f5"
     },

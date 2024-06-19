@@ -8,7 +8,7 @@
       }
     },
     "background": {
-      "image": "url('https://rodgar-ma.github.io/assets/files/background.jpg')"
+      "image": "url('assets/files/background.jpg')"
     },
     "color": {
       "value": "#f1f3f5"

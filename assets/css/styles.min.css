@@ -167,7 +167,6 @@
     --type-height: 1.4;
     --type-numeric: oldstyle-nums proportional-nums;
     --color-particles-text: var(--oc-gray-1);
-    --color-particles-background: var(--oc-gray-9)
 }
 
 html,
@@ -449,7 +448,6 @@ a.reversefootnote:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-color: var(--color-particles-background)
 }
 
 #particles-js .particles-js-canvas-el {

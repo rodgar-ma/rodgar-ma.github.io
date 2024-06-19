@@ -167,6 +167,7 @@
     --type-height: 1.4;
     --type-numeric: oldstyle-nums proportional-nums;
     --color-particles-text: var(--oc-gray-1);
+    --color-particles-background: var(--oc-gray-9)
 }
 
 html,
@@ -198,7 +199,7 @@ body {
     font-weight: var(--type-weight);
     line-height: var(--type-height);
     font-variant-numeric: var(--type-numeric);
-    background-color: url("../files/background.jpg");
+    background-color: var(--color-background);
     color: var(--color-text)
 }
 

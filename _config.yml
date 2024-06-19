@@ -1,14 +1,7 @@
-title: ""
-description: ""
+title: "Miguel Ángel Rodríguez García"
+description: "Computer Scientist"
 baseurl: ""
-url: ""
-
-exclude:
-  - demo/
-  - cvless.gemspec
-  - LICENSE
-  - README.md
-  - screenshot.png
+url: "https://rodgar-ma.github.io"
 
 plugins:
   - jekyll-feed

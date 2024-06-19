@@ -7,9 +7,6 @@
         "value_area": 1000
       }
     },
-    "background": {
-      "image": "url('assets/files/background.jpg')"
-    },
     "color": {
       "value": "#f1f3f5"
     },

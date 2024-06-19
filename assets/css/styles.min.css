@@ -198,7 +198,7 @@ body {
     font-weight: var(--type-weight);
     line-height: var(--type-height);
     font-variant-numeric: var(--type-numeric);
-    background-color: var(--color-background);
+    background-color: url("../files/background.jpg");
     color: var(--color-text)
 }
 
@@ -448,6 +448,7 @@ a.reversefootnote:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-image: url("../files/background.jpg");
 }
 
 #particles-js .particles-js-canvas-el {

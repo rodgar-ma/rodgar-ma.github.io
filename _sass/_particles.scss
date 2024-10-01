@@ -22,7 +22,7 @@
 
 .fullscreen {
   min-height: 100vh;
-  background-image: "assets/files/background.jpeg";
+  background-image: url("../assets/files/background.jpeg");
   h1,
   h2 {
     color: var(--color-particles-text);

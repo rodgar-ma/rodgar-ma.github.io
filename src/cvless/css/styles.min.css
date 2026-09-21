@@ -396,7 +396,7 @@ a.reversefootnote:hover {
 }
 .fullscreen {
   min-height: 100vh;
-  background-image: url("../files/background.jpeg");
+  background-image: url("/files/background.jpeg");
 }
 .fullscreen h1,
 .fullscreen h2 {

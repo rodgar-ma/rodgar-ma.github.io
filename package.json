@@ -1,0 +1,31 @@
+{
+  "name": "rodgar-ma.github.io",
+  "version": "1.0.0",
+  "description": "- [Cvless template](https://github.com/piazzai/cvless)",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodgar-ma/rodgar-ma.github.io.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/rodgar-ma/rodgar-ma.github.io/issues"
+  },
+  "homepage": "https://github.com/rodgar-ma/rodgar-ma.github.io#readme",
+  "dependencies": {
+    "@tsparticles/react": "^4.4.0",
+    "@tsparticles/slim": "^4.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^8.3.0"
+  }
+}

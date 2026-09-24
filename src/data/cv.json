@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Miguel Ángel Rodríguez García",
+    "label": "Software Engineer",
+    "image": "/files/photo.jpg",
+    "email": "ma.rodgar1999@gmail.com",
+    "phone": "(+34) 679 87 24 82",
+    "url": "https://rodgar-ma.github.io",
+    "summary": "Engineer with a background in Physics, Computer Science and Quantum Computing. Experience in embedded development and algorithm validation for safety-critical software in the aerospace sector. Strong foundation in mathematics and algorithms, with an interest in performance engineering, quantum computing and web development.",
+    "location": {
+      "address": "Austurhólar 10",
+      "postalCode": "800",
+      "city": "Selfoss",
+      "countryCode": "IS",
+      "region": "Suðurland"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "rodgar-ma",
+        "url": "https://github.com/rodgar-ma"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Miguel Ángel Rodríguez García",
+        "url": "https://www.linkedin.com/in/miguel-%C3%A1ngel-rodr%C3%ADguez-garc%C3%ADa-137a11243/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Embention Sistemas Inteligentes",
+      "position": "Software Developer",
+      "url": "https://www.embention.com",
+      "startDate": "2025-11",
+      "endDate": "2026-10",
+      "summary": "Software development and algorithm validation for safety-critical UAV and VTOL software under the DO-178C standard, on an aerospace project for Amazon.",
+      "highlights": []
+    },
+    {
+      "name": "Self-employed",
+      "position": "Private tutor (Physics, Mathematics and Chemistry)",
+      "url": "",
+      "startDate": "2017",
+      "endDate": "2026",
+      "summary": "Private tutoring in Physics, Mathematics and Chemistry.",
+      "highlights": []
+    },
+    {
+      "name": "Car insurance agency",
+      "position": "Administrative assistant",
+      "url": "",
+      "startDate": "2022-07",
+      "endDate": "2023-02",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Hospitality sector",
+      "position": "Waiter / delivery driver / cook",
+      "url": "",
+      "startDate": "2019-05",
+      "endDate": "2021-09",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Internacional de La Rioja (UNIR)",
+      "url": "https://www.unir.net",
+      "area": "Quantum Computing",
+      "studyType": "MSc",
+      "startDate": "2024",
+      "endDate": "2025",
+      "score": "8.75",
+      "courses": [
+        "Master's thesis: \"Towards a Quantum A* Algorithm: Incorporating Heuristics into Quantum Walks\" (grade: 9.9)"
+      ]
+    },
+    {
+      "institution": "University of Murcia",
+      "url": "https://um.es",
+      "area": "Computer Engineering",
+      "studyType": "BSc",
+      "startDate": "2020",
+      "endDate": "2025",
+      "score": "7.00",
+      "courses": [
+        "Bachelor's thesis: \"Parallelization Strategies for the A* Algorithm in Shared-Memory Environments\" (grade: 9.1)"
+      ]
+    },
+    {
+      "institution": "University of Murcia",
+      "url": "https://um.es",
+      "area": "Physics",
+      "studyType": "BSc (not completed)",
+      "startDate": "2017",
+      "endDate": "2020",
+      "score": "",
+      "courses": [
+        "120/240 ECTS completed"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Cambridge English: B2 First",
+      "date": "2025-04-12",
+      "issuer": "Cambridge Assessment English",
+      "url": "",
+      "summary": "184/190 (equivalent to C1 level)"
+    },
+    {
+      "name": "IBM Qiskit Global Summer 2024",
+      "date": "2024-08-15",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/9eb49590-e323-40a2-aa1f-d24166cbcd2a/public_url",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["C", "C++", "Python", "Java", "R", "JavaScript", "TypeScript", "Lua", "Bash"]
+    },
+    {
+      "name": "Tools & technologies",
+      "level": "",
+      "keywords": ["Git", "GitHub", "LaTeX", "Office", "Odoo", "Docker", "MySQL", "Make", "CMake", "Jupyter", "Anaconda"]
+    },
+    {
+      "name": "Frameworks & libraries",
+      "level": "",
+      "keywords": ["Qiskit", "PennyLane", "Raylib", "Boost", "BGL", "NumPy", "Matplotlib", "Pandas", "PyTorch", "Keras", "OpenCV", "MediaPipe", "Astro", "React", "Vite", "OpenMP", "CUDA", "STL"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Cambridge B2 First (184/190, equivalent to C1)"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Embention Sistemas Inteligentes",
+      "reference": "Letter of recommendation available upon request."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Research internship — DIPC",
+      "startDate": "2025-03",
+      "endDate": "2025-05",
+      "description": "Research internship at the Donostia International Physics Center (DIPC).",
+      "highlights": ["Implemented O'Gorman's algorithm in Python for the Bayesian Network Structure Learning Problem."],
+      "url": "https://dipc.org"
+    }
+  ]
+}

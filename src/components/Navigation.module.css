@@ -1,0 +1,20 @@
+.navigation {
+  display: flex;
+  position: absolute;
+  width: 100vw;
+  margin: 0;
+  padding-top: 1rem;
+  justify-content: left;
+
+  a {
+    margin: 0 3rem;
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    font-weight: bolder;
+  }
+
+  a:hover {
+    opacity: 0.7;
+  }
+}

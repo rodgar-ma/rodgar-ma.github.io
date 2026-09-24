@@ -2,7 +2,7 @@
   "basics": {
     "name": "Miguel Ángel Rodríguez García",
     "label": "Software Engineer",
-    "image": "",
+    "image": "/files/photo.jpg",
     "email": "ma.rodgar1999@gmail.com",
     "phone": "(+34) 679 87 24 82",
     "url": "https://rodgar-ma.github.io",
@@ -16,9 +16,14 @@
     },
     "profiles": [
       {
-      "network": "GitHub",
-      "username": "rodgar-ma",
-      "url": "https://github.com/rodgar-ma"
+        "network": "GitHub",
+        "username": "rodgar-ma",
+        "url": "https://github.com/rodgar-ma"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Miguel Ángel Rodríguez García",
+        "url": "https://www.linkedin.com/in/miguel-%C3%A1ngel-rodr%C3%ADguez-garc%C3%ADa-137a11243/"
       }
     ]
   },
@@ -86,7 +91,7 @@
       ]
     },
     {
-      "institution": "Universidad de Murcia (UMU)",
+      "institution": "University of Murcia",
       "url": "https://um.es",
       "area": "Physics",
       "studyType": "BSc (not completed)",
@@ -106,6 +111,13 @@
       "issuer": "Cambridge Assessment English",
       "url": "",
       "summary": "184/190 (equivalent to C1 level)"
+    },
+    {
+      "name": "IBM Qiskit Global Summer 2024",
+      "date": "2024-08-15",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/9eb49590-e323-40a2-aa1f-d24166cbcd2a/public_url",
+      "summary": ""
     }
   ],
   "publications": [],
@@ -123,7 +135,7 @@
     {
       "name": "Frameworks & libraries",
       "level": "",
-      "keywords": ["Qiskit", "PennyLane", "Raylib", "Boost", "BGL", "NumPy", "Matplotlib", "Pandas", "PyTorch", "Keras", "OpenCV", "MediaPipe", "Astro", "React", "OpenMP", "CUDA", "STL"]
+      "keywords": ["Qiskit", "PennyLane", "Raylib", "Boost", "BGL", "NumPy", "Matplotlib", "Pandas", "PyTorch", "Keras", "OpenCV", "MediaPipe", "Astro", "React", "Vite", "OpenMP", "CUDA", "STL"]
     }
   ],
   "languages": [
@@ -149,8 +161,8 @@
       "startDate": "2025-03",
       "endDate": "2025-05",
       "description": "Research internship at the Donostia International Physics Center (DIPC).",
-      "highlights": [],
-      "url": ""
+      "highlights": ["Implemented O'Gorman's algorithm in Python for the Bayesian Network Structure Learning Problem."],
+      "url": "https://dipc.org"
     }
   ]
 }

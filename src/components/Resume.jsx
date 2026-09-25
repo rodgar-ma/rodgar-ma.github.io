@@ -9,7 +9,9 @@ export default function Resume() {
     <main className={styles.resume}>
       <section id="about">
         <h2>About me</h2>
-        <p>{basics.summary}</p>
+        <article>
+          <p>{basics.summary}</p>
+        </article>
       </section>
 
       <section id="work">
@@ -17,8 +19,8 @@ export default function Resume() {
         {work.map((job) => (
           <article key={`${job.name}-${job.startDate}`}>
             <h3>{job.position} · {job.name}.</h3>
-            <p>{job.startDate} - {job.endDate ?? 'Present'}</p>
-            <p>{job.summary}</p>
+            <p className={styles.date}>{job.startDate} - {job.endDate ?? 'Present'}</p>
+            { job.summary && <p>{job.summary}</p>}
           </article>
         ))}
       </section>
@@ -29,7 +31,7 @@ export default function Resume() {
           <article key={`${e.institution}-${e.startDate}`}>
             <h3>{e.studyType} in {e.area}.</h3>
             <p>{e.institution}</p>
-            <p>{e.startDate} - {e.endDate ?? 'Present'}</p>
+            <p className={styles.date}>{e.startDate} - {e.endDate ?? 'Present'}</p>
           </article>
         ))}
       </section>
@@ -40,7 +42,6 @@ export default function Resume() {
           <article key={c.name}>
             <h3>{c.name}</h3>
             {c.issuer && <p>{c.issuer}</p>}
-            
           </article>
         ))}
       </section>

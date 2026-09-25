@@ -69,6 +69,16 @@
   animation: bounce 1s ease-in-out infinite;
 }
 
+.arrow svg {
+  transition: transform 0.2s ease;
+}
+
+.arrow:hover svg,
+.arrow:focus-visible svg {
+  opacity: 0.8;
+  transform: scale(1.2);
+}
+
 @keyframes bounce {
   0%, 100% {
     transform: translateY(0);
